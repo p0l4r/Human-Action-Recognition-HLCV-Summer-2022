@@ -13,8 +13,11 @@ We used hardware support provided by Kaggle. If you open an account with Kaggle 
 
 ## Contributors
 Shantanu Kumar Rahut (Matriculation No. : 7015438)
+
 Rushan Mukherjee (Matriculation No. : 7015520)
+
 Sarvenaz Amiri (Matriculation No. : 7027420)
+
 Prakash Naikade (Matriculation No. : 7000433)
 
 ## License
