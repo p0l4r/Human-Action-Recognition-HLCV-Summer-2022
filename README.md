@@ -1,6 +1,10 @@
 # Human Action Recognition - HLCV Summer 2022
 
-Human Action Recognition - is our project for High-Level Computer Vision for  Summer Semester 2022. Our goal is to find a better-suited fine-tuned model for Human Action Recognition. We fine-tuned different pre-trained deep learning models and tried to measure their performance. 
+Human Action Recognition - is our project for High-Level Computer Vision for  Summer Semester 2022. 
+
+In this work, we investigate and compare the overall performance of different renowned pre-trained deep learning models and their ensembles on the task of Human Action
+Recognition. We use a publicly available image dataset found from Kaggle. The dataset is comprised of 15 different classes. We purposely used a small dataset to address
+the overfitting issues with respect to other proposed models and tried to mitigate it using a deep ensemble technique.
 
 ## Dataset
 
